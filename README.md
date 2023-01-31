@@ -18,4 +18,5 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-![Small GIF (400x195)](https://user-images.githubusercontent.com/67423191/215760032-62c00384-5863-424c-886f-00fb91f5d443.gif)
+
+![Large GIF (1260x614)](https://user-images.githubusercontent.com/67423191/215760325-9c20d843-d5f0-41c5-b19a-f5a522acf35d.gif)
